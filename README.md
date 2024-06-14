@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurromiii&" alt="kurromiii" /></p>
 
 
-<br><br><br>
+<br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kurromiii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kurromiii" /></a></p><br><br>
 
